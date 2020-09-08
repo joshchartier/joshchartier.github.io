@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josh Chartier"
 title_separator          : "-"
 name                     : &name "Josh Chartier"
-description              : &description "Speech neuroscientist @UCSF developing brain-computer interfaces for communication."
+description              : &description "Speech neuroscientist UCSF developing brain-computer interfaces for communication."
 url                      : https://joshchartiers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshchartier.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "joschartier"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Josh Chartier"
   avatar           : "profile.png"
-  bio              : "Speech neuroscientist @UCSF developing brain-computer interfaces for communication."
+  bio              : "Speech neuroscientist UCSF developing brain-computer interfaces for communication."
   location         : "San Francisco, CA"
   employer         : "UCSF"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fmUkNVcAAAAJ&hl=en&oi=ao"
   email            : "jchartier@gmail1.com"
-  researchgate     :  "https://www.researchgate.net/profile/Josh_Chartier"
+  researchgate     : "https://www.researchgate.net/profile/Josh_Chartier"
   uri              :
   bitbucket        :
   codepen          :
