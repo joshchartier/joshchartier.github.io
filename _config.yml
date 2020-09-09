@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Josh Chartier"
+title                    : "Josh-Chartier"
 title_separator          : "-"
 name                     : &name "Josh Chartier"
 description              : &description "Speech neuroscientist UCSF developing brain-computer interfaces for communication."
@@ -87,7 +87,7 @@ author:
   employer         : "UCSF"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fmUkNVcAAAAJ&hl=en&oi=ao"
-  email            : "jchartier@gmail1.com"
+  email            : "jchartier-at-gmail1-dot-com"
   researchgate     : "https://www.researchgate.net/profile/Josh_Chartier"
   uri              :
   bitbucket        :
