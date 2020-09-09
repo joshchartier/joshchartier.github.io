@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Josh Chartier"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Josh Chartier"
+description              : &description "neuroscientist"
 url                      : https://joshchartier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshchartier/joshchartier.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Josh Chartier"
   avatar           : "profile.png"
-  bio              : "Speech neuroscientist developing brain-computer interfaces for communication."
+  bio              : "Speech neuroscientist @UCSF developing brain-computer interfaces for communication."
   location         : "San Francisco, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=josh+chartier"
