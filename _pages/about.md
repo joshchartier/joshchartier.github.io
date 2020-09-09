@@ -10,8 +10,8 @@ redirect_from:
 
 I am a postdoctoral scholar in the [Chang Lab](http://changlab.ucsf.edu/) at the University of Calfornia, San Francisco. My work is focused on developing a brain-computer interface that enables people with severe movement and speech impairments to communicate via a real-time speech synthesizer that decodes neural signals of intended speech.
 
-In 2019, I completed my PhD in the [Chang Lab](http://changlab.ucsf.edu/) through [Joint Graduate Program in Bioengineering](http://bioegrad.berkley.edu) at UC Berkeley and UCSF. My dissertation incorporated machine learning, linguistics, neuroscience and signal
-                            processing to investigate [neural mechanisms underlying natural speech production](https://www.ucsf.edu/news/2018/05/410606/study-reveals-brain-activity-patterns-underlying-fluent-speech) and developed [machine
+In 2019, I completed my PhD in the [Chang Lab](http://changlab.ucsf.edu/) through the [Joint Graduate Program in Bioengineering](http://bioegrad.berkley.edu) at UC Berkeley and UCSF. My dissertation incorporated machine learning, linguistics, neuroscience, and signal
+                            processing to investigate [neural mechanisms underlying natural speech production](https://www.ucsf.edu/news/2018/05/410606/study-reveals-brain-activity-patterns-underlying-fluent-speech) and develope [machine
                                 learning algorithms to decode speech from brain
                                 (electrocorticography)
                                 signals](https://www.ucsf.edu/news/2019/04/414296/synthetic-speech-generated-brain-recordings).
