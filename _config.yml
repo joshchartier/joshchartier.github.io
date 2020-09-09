@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Chartier"
-  avatar           : "/files/chartier.png"
+  avatar           : "/files/chartier_portrait.jpg"
   bio              : "Speech neuroscientist @UCSF developing brain-computer interfaces for communication."
   location         : "San Francisco, CA"
   employer         :
