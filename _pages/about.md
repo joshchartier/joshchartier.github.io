@@ -12,7 +12,7 @@ I am a postdoctoral scholar in the [Chang Lab](http://changlab.ucsf.edu/) at the
 
 In 2019, I completed my PhD in the [Chang Lab](http://changlab.ucsf.edu/) through the [Joint Graduate Program in Bioengineering](http://bioegrad.berkley.edu) at UC Berkeley and UCSF. My dissertation incorporated machine learning, linguistics, neuroscience, and signal
                             processing to investigate [neural mechanisms underlying natural speech production](https://www.ucsf.edu/news/2018/05/410606/study-reveals-brain-activity-patterns-underlying-fluent-speech) and develop [machine
-                                learning algorithms to decode speech from brain
+                                learning algorithms than decode speech from brain
                                 (electrocorticography)
                                 signals](https://www.ucsf.edu/news/2019/04/414296/synthetic-speech-generated-brain-recordings).
                                 
